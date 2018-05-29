@@ -2,6 +2,7 @@
 obj
 Temp
 Library
-*.csproj
 *.sln
 *.suo
+*.meta
+*.csproj
