@@ -1,8 +1,6 @@
-.vs
-obj
+vs.
 Temp
 Library
+
 *.sln
-*.suo
-*.meta
 *.csproj
