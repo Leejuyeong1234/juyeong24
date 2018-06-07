@@ -1,2 +1,0 @@
-David,"Hello, how are you?",0
-Rachel,"Fine, thanks!",0 
